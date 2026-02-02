@@ -1,0 +1,23 @@
+There is a word I used which is 'A block scope variable' in 'let' and 'const'
+
+So, what is the meaning of A block scope variable?
+
+In all Programming languages a block means curly braces'{}'. So, in this curly braces what ever you write a code that is a one block if you used 
+
+{...code...} - 1st block
+{...code...} - 2nd block
+{...code...} - 3rd block 
+{...code...} - 4th block 
+.
+.
+.
+.
+and so one.
+and one most interesting and fun part is if 1st code for var orlet so that particular block called "var varibale type" or "let varibale type". So and declared, re-declared, update of the value while change all for that particular block where you are writing your code. 
+.
+.
+.
+.
+ So understanding or not
+
+ if not so jump to the "blockscope.js" file you while understand better.
