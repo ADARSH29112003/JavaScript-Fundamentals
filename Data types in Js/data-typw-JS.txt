@@ -1,0 +1,16 @@
+Data Types in JavaScript
+
+1. Primitive Data types
+2. Non-Primitive Data types
+
+1. Primitive Data types are: 
+- Number
+- String
+- Boolean
+- Undefined
+- Null
+- BigInt
+- Symbol 
+
+2. Non-Primitive Data types are:
+- Object
