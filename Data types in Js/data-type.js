@@ -41,5 +41,16 @@ let h = Symbol("Hello!");
 
 // for example - If we want to store a data for 'Students' we have to store such data like-
 // - name {String data type}
-- 
+// - age {Number data type}
+// - marks {number data type}
+// - isPass {Boolean data type}
+
+// So, we can store all the above data in an "Object" like this -
+
+const student = {
+    name: "Tony Stark",
+    age: 24,
+    marks: 95,
+    isPass: true, 
+};
 
