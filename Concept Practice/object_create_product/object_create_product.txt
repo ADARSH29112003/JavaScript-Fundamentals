@@ -1,0 +1,10 @@
+Create a const object called "product" to store information shown in the picture
+
+So,
+We have -
+
+Product name - Frontier Stainless Steel GT Roller Ball Pen
+Rating - 4.2 out of 5
+Price - Rs. 538
+Offer - 33%
+Deal - Yes, Deal of the day is going

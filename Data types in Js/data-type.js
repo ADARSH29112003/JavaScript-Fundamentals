@@ -60,3 +60,22 @@ const student = {
     student["marks"] // this will give us the value of marks which is 95
     student["isPass"] // this will give us the value of isPass which is true
 
+    // And
+
+    // Another method to access the data from the above "Object" is -
+    student.name // this will give us the value of name which is "Tony Stark"
+    student.age // this will give us the value of age which is 24
+    student.marks // this will give us the value of marks which is 95
+    student.isPass // this will give us the value of isPass which is true
+
+    // and Most intersting part is that - 
+    // 'Name' is a key in the object and "Tony Stark" is the value of that key.
+    // 'Age' is a key in the object and '24' is the value of that key.
+    // 'Marks' is a key in the object and '95' is the value of that key.
+    // 'isPass' is a key in the object and 'true' is the value of that key.
+
+    // Note - Very important point you can update the value of 
+    // - 'Let' Variable can update easily
+    // - 'Const' Variable does not update easily
+    //  but
+    // - 'Const' Object can update easily but you cannot reassign the value of that object.
