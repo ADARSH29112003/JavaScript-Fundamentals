@@ -54,7 +54,7 @@ const student = {
     isPass: true, 
 };
 
-to access the data from the above "Object" we use this method - 
+// to access the data from the above "Object" we use this method - 
     student["name"] // this will give us the value of name which is "Tony Stark"
     student["age"] // this will give us the value of age which is 24
     student["marks"] // this will give us the value of marks which is 95
