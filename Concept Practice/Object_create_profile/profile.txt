@@ -1,0 +1,5 @@
+Create a const object called "Profile" to store information shown in the picture
+
+n the picture we have - 
+
+Username/ProfileName -  Sh
