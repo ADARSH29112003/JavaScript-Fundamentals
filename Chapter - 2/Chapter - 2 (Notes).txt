@@ -1,0 +1,25 @@
+Topic - Comments
+
+A 'comment' part in JavaScript or in any programming language is the only poart which complier strictly ignore, which does not effect any code part. 
+
+This will start with eihter "//" or "/*....*/" 
+
+Example - 
+
+// In this code we wriiten Hello World.
+
+and suprisgly you notice that,  we used "//" which identify that from here "Comments" start.
+
+console.log("Hello World!");
+
+******************************************************************************************************************
+
+Topic - Operators in JavaScript
+
+Arithmetic Operators
++, -, *, / 
+and also,
+    Modulus
+    Exponentiation
+    Increment
+    Decrement
