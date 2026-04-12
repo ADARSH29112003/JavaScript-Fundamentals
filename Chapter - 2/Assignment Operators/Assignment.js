@@ -26,7 +26,8 @@ console.log("x = ", x); // Output: 15
 x -= 6;
 // here we used our third assign operator which is "-=" and this operator called subtraction assignment operator
 // The above code is equivalent to x = x - 6;
-console.log ("x = ", x); // Output: 9
+console.log ("x = ", x); // Output: 9x **= 2;
+// here we used our seventh assign operator which is "**=" and this operator called exponentiation assignment operator  
 
 x *= 9;
 // here we used our fourth assign operator which is "*=" and this operator called multiplication assignment operator
@@ -43,3 +44,7 @@ x %= 4;
 // The above code is equivalent to x = x % 4;
 console.log("x = ", x); // Output: 3        
 
+x **= 2;
+// here we used our seventh assign operator which is "**=" and this operator called exponentiation assignment operator  
+// The above code is equivalent to x = x ** 2;
+console.log("x = ", x); // Output: 9
