@@ -1,16 +1,16 @@
-//Question - 3
-//Write a JavaScript code to do these operations:
-// do step by step:
-// 1. x++ ✅
-// 2. print✅
-// 3. ++x ✅
-// 4. print ✅
-// 5. x-- ✅
-// 6. print ✅
-// 7. --x ✅
-// 8. print ✅
+// //Question - 3
+// //Write a JavaScript code to do these operations:
+// // do step by step:
+// // 1. x++ ✅
+// // 2. print✅
+// // 3. ++x ✅
+// // 4. print ✅
+// // 5. x-- ✅
+// // 6. print ✅
+// // 7. --x ✅
+// // 8. print ✅
 
-//  And Given value of x is 10
+// //  And Given value of x is 10
 
 let x = 10; // x = 10
 x++; // x = 10 + 1 = 11
