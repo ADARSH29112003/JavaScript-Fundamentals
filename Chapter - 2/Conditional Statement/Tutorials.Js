@@ -41,3 +41,11 @@ if (condition1){
     //option 3 -
 }
 
+//4 Ternary Operators
+
+// Syntax is - condition ? "True" : "False"; 
+
+
+// let age = 25;
+// let result =  age>=18 ? "adult" : "not adult";
+// console.log(result); // adult will be output
