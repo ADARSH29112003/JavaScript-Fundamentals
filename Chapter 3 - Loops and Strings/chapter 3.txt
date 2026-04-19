@@ -21,3 +21,20 @@ Note - In real world projects, websites or apps we never have to use infinte loo
 while (condition){
     //do some work
 }
+
+***** do while loop - It is also work same as While loop and for loop but here is different way to write in a syntax
+
+do{
+    //do some work
+}while(condition);
+
+
+======Special loop in JavaScript=======
+
+- for-of loop this loop helps us to use loop on arrays and strings 
+
+for (let val of strVar){
+    //do some work
+}
+
+- for-in loop in this loop we get objects key and arrays also 
