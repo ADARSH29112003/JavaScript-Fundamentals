@@ -44,4 +44,4 @@ let str2 = 'Averona'; //7
 
 // so we write this,
 
-console.log(str2[0]); //A
+console.log(str2[0]); //"A" will be print
